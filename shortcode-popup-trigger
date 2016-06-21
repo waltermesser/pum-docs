@@ -1,0 +1,8 @@
+//Create a trigger from standard text.
+[popup_trigger id="123"]Some Text[/popup_trigger]
+
+//Make the trigger a <button>
+[popup_trigger id="123" tag="button"]Button Text[/popup_trigger]
+
+// Or even use other shortcodes.
+[popup_trigger id="123"][button_shortcode][/popup_trigger]
